@@ -1,2 +1,0 @@
--- AlterTable
-ALTER TABLE "Post" ADD COLUMN     "postId" INTEGER NOT NULL DEFAULT 0;
